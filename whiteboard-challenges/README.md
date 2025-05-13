@@ -30,6 +30,6 @@ Input → [1, 1, 2, 2, 3, 3, 3, 1, 1]
 Output → 1
 
 ### Whiteboard
-![Most Frequent Number Whiteboard](./whiteboard-challenges/most-frequent-number.png)
+![Most Frequent Number Whiteboard](most-frequent-number-image.png)
 
 ---
