@@ -17,7 +17,7 @@ Output → [5, 4, 3, 2, 1]
 ### Whiteboard
 ![Array Reversal Whiteboard](./whiteboard-challenges//array-reversal-image.png)
 
----
+-------------------------------------
 
 ## Challenge B: Most Frequent Number
 
@@ -32,4 +32,22 @@ Output → 1
 ### Whiteboard
 ![Most Frequent Number Whiteboard](./whiteboard-challenges//most-frequent-number-image.png)
 
+-------------------------------------
+
+## Challenge 01: Minimum Value
+
+### Description  
+We need to create a function that takes an array of integers and returns the smallest number.  
+We are not allowed to use any built-in functions like `Math.min()` or `sort()`.
+
 ---
+
+### Example  
+Input → [5, 1, 7, -3, 10]  
+Output → -3
+
+---
+
+### Whiteboard  
+![Minimum Value Whiteboard](./whiteboard-challenges/minimum-value.png)
+
