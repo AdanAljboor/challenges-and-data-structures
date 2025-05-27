@@ -51,3 +51,22 @@ Output → -3
 ### Whiteboard  
 ![Minimum Value Whiteboard](./whiteboard-challenges/minimum-value.png)
 
+
+-------------------------------------
+
+## Challenge 03: Reverse Characters
+
+### Description  
+We need to create a function that takes a string and returns the reversed version of that string.  
+We are not allowed to use any built-in methods like `.reverse()`.
+
+---
+
+### Example  
+Input → "javascript"  
+Output → "tpircsavaj"
+
+---
+
+### Whiteboard  
+![Reverse Characters Whiteboard](./whiteboard-challenges/reverse-characters.png)
