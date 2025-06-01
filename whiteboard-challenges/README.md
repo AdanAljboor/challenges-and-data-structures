@@ -32,7 +32,7 @@ Output → 1
 ### Whiteboard
 ![Most Frequent Number Whiteboard](most-frequent-number-image.png)
 
--------------------------------------
+-----------------------------------------
 ## Challenge 01: Minimum Value
 
 ### Description  
@@ -68,3 +68,21 @@ Output → "tpircsavaj"
 
 ### Whiteboard  
 ![Reverse Characters Whiteboard](reverse-characters.png)
+
+-----------------------------------------
+## Challenge 04: Remove Middle Value
+
+### Description  
+We need to create a function that takes an array and removes the value at the middle index.  
+We are not allowed to use any built-in methods like `splice()` or `slice()`.
+
+---
+
+### Example  
+Input → [7, 9, 13, 25, 5, 17]  
+Output → [7, 9, 13, 5, 17]
+
+---
+
+### Whiteboard  
+![Remove Middle Value Whiteboard](remove-middle%20value.png)
