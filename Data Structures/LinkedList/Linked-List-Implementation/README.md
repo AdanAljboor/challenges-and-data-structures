@@ -47,4 +47,5 @@ This is a simple JavaScript project that builds a basic **Singly Linked List**.
 
 ## 🧠 Whiteboard Diagram
 
-![Whiteboard](/Linked-List-whiteboard.png)
+![Whiteboard](./Linked-List-whiteboard.png)
+
