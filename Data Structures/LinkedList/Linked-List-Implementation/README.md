@@ -44,3 +44,7 @@ This is a simple JavaScript project that builds a basic **Singly Linked List**.
 - ✅ All tests passed  
 - ✅ Code is working  
 - ✅ Edge cases handled
+
+## 🧠 Whiteboard Diagram
+
+![Whiteboard](/Linked-List-whiteboard.png)
