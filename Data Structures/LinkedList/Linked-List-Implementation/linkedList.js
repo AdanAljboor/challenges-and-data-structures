@@ -74,15 +74,27 @@ class LinkedList {
   }
 
   printList() {
-    let result = "Head -> ";
     let current = this.head;
+    const values = [];
     while (current) {
-      result += `${current.data} -> `;
+      values.push(current.data);
       current = current.next;
     }
-    result += "Null";
-    console.log(result);
+    return values;
+  }
+
+  reverse() {
+    let prev = null;
+    let current = this.head;
+    while (current) {
+      let next = current.next;
+      current.next = prev;
+      prev = current;
+      current = next;
+    }
+    this.head = prev;
   }
 }
 
-module.exports = LinkedList;
+module.exports = { LinkedList };
+
