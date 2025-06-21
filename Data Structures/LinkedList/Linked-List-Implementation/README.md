@@ -47,5 +47,12 @@ This is a simple JavaScript project that builds a basic **Singly Linked List**.
 
 ## 🧠 Whiteboard Diagram
 
-![Whiteboard](./Linked-List-whiteboard.png)
+![add(data)](./add%28data%29.png)
 
+![includes(data)](./includes%28data%29.png)
+
+![remove(data)](./remove%28data%29.png)
+
+![printList()](./printList%28%29.png)
+
+![insertAt(data, index)](./insertAt%28data%2C%20index%29.png)
