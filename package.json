@@ -1,0 +1,15 @@
+{
+  "name": "challenges-and-data-structures",
+  "version": "1.0.0",
+  "description": "This repository contains my whiteboard solutions for the assigned challenges in Full-Stack JavaScript.",
+  "main": "linkedList.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
