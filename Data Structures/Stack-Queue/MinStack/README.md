@@ -1,4 +1,4 @@
 # Min Stack
-#
 
-![Whiteboard](./minStack-whiteboard.png)
+
+![Whiteboard](/minStack-whiteboard.png)
